@@ -27,7 +27,8 @@ jobs:
    
       - name: Test with RobotFramework
         run: |
-            cd tests
+            ls -d */
+            cd Tests
             robot -d ..\Results Final_Challenge.robot
          
       - name: Test Report Generation
