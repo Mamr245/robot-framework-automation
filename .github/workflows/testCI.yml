@@ -28,7 +28,6 @@ jobs:
    
       - name: Test with RobotFramework
         run: |
-            ls -d */
             cd Tests
             robot -d ..\Results Final_Challenge.robot
          
@@ -36,5 +35,5 @@ jobs:
         uses: actions/upload-artifact@v4
         if: success() || failure()
         with:
-          name: Results               # Name of the folder
-          path: report.html           # Path to test results
+          name: Results               
+          path: report.html           
