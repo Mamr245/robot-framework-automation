@@ -36,5 +36,5 @@ jobs:
         uses: actions/upload-artifact@v4
         if: success() || failure()
         with:
-          name: Results               
-          path: report.html           
+          name: TestResults               
+          path: Results/report.html           
