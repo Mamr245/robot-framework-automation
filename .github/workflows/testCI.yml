@@ -4,6 +4,8 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
+  schedule:
+    - cron: '0 0 * * *'
  
 permissions:
   contents: read
@@ -37,4 +39,4 @@ jobs:
         if: success() || failure()
         with:
           name: TestResults               
-          path: Results/report.html           
+          path: Results/          
