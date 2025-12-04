@@ -1,11 +1,11 @@
 name: Robot Framework Test
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-  schedule:
-    - cron: '0 0 * * *'
+  # push:
+  #   branches: [ "main" ]
+  # pull_request:
+  #   branches: [ "main" ]
+  # schedule:
+  #   - cron: '0 0 * * *'
   workflow_dispatch:
 permissions:
   contents: read
