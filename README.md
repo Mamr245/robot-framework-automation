@@ -1,14 +1,12 @@
 <h1 align="center">Robot Framework Automation Project :robot:</h1> 
 
-### :question: What is it about?
-This project was the final challenge of a Robot Framework training I had. It allowed me to use a wide variety of features present within RobotFramework and learn about this automation tool.
-It performs an End-2-End test on https://thetestingworld.com/testings/. The goal was to apply what I learned during the course. 
-It runs everyday using GitHub Actions and the results can be checked [here](https://github.com/Mamr245/robot-framework-automation/actions). 
+### :question: What is this?
+This project served as the final challenge of a Robot Framework training program, enabling me to utilize a broad range of features within Robot Framework and deepen my understanding of this automation tool. It performs an end-to-end test on https://thetestingworld.com/testings/ , applying the skills acquired throughout the course. The test is executed everyday via GitHub Actions, and the results can be reviewed here [here](https://github.com/Mamr245/robot-framework-automation/actions). 
 
 ### :hammer: Used Technologies
 `Pycharm` `RobotFramework` `Selenium` `XPath`
 
 ### :speech_balloon: Have any suggestions or have found an issue? 
-Feel free to tell me about it :speech_balloon: I'm always looking to improve!
+Feel free to reach out! I'm always open to feedback and eager to improve.
 
-<h2 align="center">Thanks for coming! :wave:</h2>
+<h2 align="center">Thanks for visiting! :wave:</h2>
