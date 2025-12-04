@@ -6,7 +6,7 @@ This project served as the final challenge of a Robot Framework training program
 ### :hammer: Technologies used:
 `Pycharm` `RobotFramework` `Selenium` `XPath`
 
-### :speech_balloon: Have any suggestions or have found an issue? 
+### :speech_balloon: Have any suggestions or found an issue? 
 Feel free to reach out! I'm always open to feedback and eager to improve.
 
 <h2 align="center">Thanks for visiting! :wave:</h2>
